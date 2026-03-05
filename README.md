@@ -1,5 +1,13 @@
 # QlinicQueue+
 
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Backend](https://img.shields.io/badge/backend-Next.js%20API-black)
+![Mobile](https://img.shields.io/badge/mobile-Expo%20%7C%20React%20Native-violet)
+![Database](https://img.shields.io/badge/database-PostgreSQL-blue)
+![ORM](https://img.shields.io/badge/orm-Prisma-2D3748)
+![Language](https://img.shields.io/badge/language-TypeScript-blue)
+![Internship](https://img.shields.io/badge/internship-3%20months-orange)
+
 QlinicQueue+ is an experimental queue management system for small clinics.
 
 The goal of this project is to explore how a clinic queue system can work with both **online ticket booking** and **on-site registration**, while keeping the queue flow simple for patients and staff.
